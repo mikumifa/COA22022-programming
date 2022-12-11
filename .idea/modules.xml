@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/COA22022-programming09/2022.iml" filepath="$PROJECT_DIR$/COA22022-programming09/2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COA22022-programming02/AddandSub.iml" filepath="$PROJECT_DIR$/COA22022-programming02/AddandSub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COA22022-programming07/Cache1.iml" filepath="$PROJECT_DIR$/COA22022-programming07/Cache1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COA22022-programming08/Disk2.iml" filepath="$PROJECT_DIR$/COA22022-programming08/Disk2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COA22022-programming04/Div.iml" filepath="$PROJECT_DIR$/COA22022-programming04/Div.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COA22022-programming05/FLU_AddAndSub.iml" filepath="$PROJECT_DIR$/COA22022-programming05/FLU_AddAndSub.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COA22022-programming06/FLU_MulAndDiv.iml" filepath="$PROJECT_DIR$/COA22022-programming06/FLU_MulAndDiv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COA22022-programming03/Mul.iml" filepath="$PROJECT_DIR$/COA22022-programming03/Mul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/COA22022-programming01/Translater.iml" filepath="$PROJECT_DIR$/COA22022-programming01/Translater.iml" />
+    </modules>
+  </component>
+</project>
